@@ -8,8 +8,8 @@ description: >-
   Asia was so much better than I expected. I went to China for three weeks with
   20 other Flinn Scholars in my class for study abroad, and then met up with my
   boyfriend for two weeks in Thailand and South Korea.
-datePublished: '2016-06-29T02:25:58.367Z'
-dateModified: '2016-06-28T22:02:19.436Z'
+datePublished: '2016-06-29T02:28:39.771Z'
+dateModified: '2016-06-29T02:26:05.686Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-eric-takes-asia.md
