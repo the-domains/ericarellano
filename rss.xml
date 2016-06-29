@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Eric Arellano]]></title>
-        <description><![CDATA[Eric Arellano]]></description>
+        <title><![CDATA[Eric Takes Mexico]]></title>
+        <description><![CDATA[Eric Takes Mexico]]></description>
         <link>https://thegrid.ai/ericarellano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 02:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 02:28:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericarellano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eric takes Asia]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/245d6ce8-17a6-40c0-a755-380c77e1a26c.jpg">]]></description>
             <link>https://thegrid.ai/ericarellano/eric-takes-asia/index.html</link>
             <guid isPermaLink="false">22c44f6a-c905-4dfb-b799-cd3d7ba3a503</guid>
-            <pubDate>Wed, 29 Jun 2016 02:25:58 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2016 02:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
