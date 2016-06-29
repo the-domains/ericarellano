@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eric Arellano]]></title>
         <description><![CDATA[Eric Arellano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ericarellano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 22:02:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 02:25:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ericarellano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eric takes Asia]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/245d6ce8-17a6-40c0-a755-380c77e1a26c.jpg">]]></description>
-            <link>undefinederic-takes-asia/index.html</link>
+            <link>https://thegrid.ai/ericarellano/eric-takes-asia/index.html</link>
             <guid isPermaLink="false">22c44f6a-c905-4dfb-b799-cd3d7ba3a503</guid>
-            <pubDate>Tue, 28 Jun 2016 22:02:11 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2016 02:25:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
